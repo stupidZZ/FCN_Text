@@ -1,8 +1,9 @@
 # FCN_Text
-# Code written by Zheng Zhang(macaroniz1990@gmail.com)
+
+Code written by Zheng Zhang(macaroniz1990@gmail.com)
 
 ##########################################################################################
-1. Introduction.
+1.Introduction.
 
 This project includes the source code and trained model about the text region fcn and proposal generation. We also provide the probability text region maps for ICDAR2015, ICDAR2013 and MSRA-TD500. If you use the resources of this project, please considering cite the paper:
 
