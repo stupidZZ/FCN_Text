@@ -27,5 +27,5 @@ We provide the predicted text region by our torch model. You can find them in '/
 
 ##########################################################################################
 
-4. Others
+4.Others
 The proposal generation in our paper is partially depend on C++ implementation. In this version, we rewrite the code by python and matlab for reading convinent. But the speed of proposal generation of this version is much slower than papers one about 7x due to language feature and the communication cost between python script and matlab.
